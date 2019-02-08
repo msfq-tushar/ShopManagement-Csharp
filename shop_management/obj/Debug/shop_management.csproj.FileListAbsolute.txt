@@ -1,0 +1,54 @@
+F:\Aiub doc\C# project\shop_management\shop_management\bin\Debug\shop_management.exe.config
+F:\Aiub doc\C# project\shop_management\shop_management\bin\Debug\shop_management.exe
+F:\Aiub doc\C# project\shop_management\shop_management\bin\Debug\shop_management.pdb
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.LoginForm.resources
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.Properties.Resources.resources
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.csproj.GenerateResource.Cache
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.exe
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.pdb
+F:\Aiub doc\C# project\shop_management\shop_management\bin\Debug\shop.mdf
+F:\Aiub doc\C# project\shop_management\shop_management\bin\Debug\shop_log.ldf
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.salesmanForm.resources
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.adminForm.resources
+I:\C# project\shop_management\shop_management\bin\Debug\shop_management.exe.config
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.exe
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.pdb
+I:\C# project\shop_management\shop_management\bin\Debug\shop.mdf
+I:\C# project\shop_management\shop_management\bin\Debug\shop_log.ldf
+I:\C# project\shop_management\shop_management\bin\Debug\shop_management.exe
+I:\C# project\shop_management\shop_management\bin\Debug\shop_management.pdb
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.adminForm.resources
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.LoginForm.resources
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.salesmanForm.resources
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.Properties.Resources.resources
+I:\C# project\shop_management\shop_management\obj\Debug\shop_management.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\shop_management\shop_management\bin\Debug\shop_management.exe.config
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.exe
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.pdb
+C:\Users\Admin\Desktop\shop_management\shop_management\bin\Debug\shop.mdf
+C:\Users\Admin\Desktop\shop_management\shop_management\bin\Debug\shop_log.ldf
+C:\Users\Admin\Desktop\shop_management\shop_management\bin\Debug\shop_management.exe
+C:\Users\Admin\Desktop\shop_management\shop_management\bin\Debug\shop_management.pdb
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.adminForm.resources
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.LoginForm.resources
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.salesmanForm.resources
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.Properties.Resources.resources
+C:\Users\Admin\Desktop\shop_management\shop_management\obj\Debug\shop_management.csproj.GenerateResource.Cache
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.AllProductShowForAdmin.resources
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.AllProductShowForSalesman.resources
+F:\Aiub doc\C# project\shop_management\shop_management\obj\Debug\shop_management.signUpForm.resources
+D:\C# project\shop_management\shop_management\bin\Debug\shop_management.exe.config
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.exe
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.pdb
+D:\C# project\shop_management\shop_management\bin\Debug\shop.mdf
+D:\C# project\shop_management\shop_management\bin\Debug\shop_log.ldf
+D:\C# project\shop_management\shop_management\bin\Debug\shop_management.exe
+D:\C# project\shop_management\shop_management\bin\Debug\shop_management.pdb
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.adminForm.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.AllProductShowForAdmin.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.AllProductShowForSalesman.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.LoginForm.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.salesmanForm.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.signUpForm.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.Properties.Resources.resources
+D:\C# project\shop_management\shop_management\obj\Debug\shop_management.csproj.GenerateResource.Cache
